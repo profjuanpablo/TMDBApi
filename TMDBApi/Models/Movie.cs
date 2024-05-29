@@ -1,0 +1,29 @@
+﻿using Newtonsoft.Json;
+using System.Collections.Generic;
+
+namespace TMDBApi.Models
+{
+    public class Movie
+    {
+        [JsonProperty("title")]
+        public string Title { get; set; }
+
+        [JsonProperty("release_date")]
+        public string ReleaseDate { get; set; }
+
+        [JsonProperty("genre_ids")]
+        public List<int> GenreIds { get; set; }
+
+        [JsonProperty("overview")]
+        public string Overview { get; set; }
+
+        [JsonProperty("poster_path")]
+        public string PosterPath { get; set; }
+    }
+
+    public class MovieResponse
+    {
+        [JsonProperty("results")]
+        public List<Movie> Results { get; set; }
+    }
+}
