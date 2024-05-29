@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YLhGE7w4lkcpM7PH1zPBH1WTZcqDuS7RG6z5XXKxg3wQbDwDI8ieZgU179zyQPIvb/Kw4u+g4JeyqNf/fW/xmg==",
+  "dgSpecHash": "l9kkPEAQOAf6pxOYD5UCaeEMI+STCW81+3S7TYLA60x3snGS4Asbxgnbz+2UUYuwDK/jeSfucB1y9L619pwyNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\profj\\source\\repos\\TMDBApi\\TMDBApi\\TMDBApi.csproj",
+  "projectFilePath": "C:\\Users\\profj\\source\\repos\\TMDBAPI\\TMDBApi\\TMDBApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\profj\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
     "C:\\Users\\profj\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

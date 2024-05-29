@@ -19,6 +19,9 @@ namespace TMDBApi.Models
 
         [JsonProperty("poster_path")]
         public string PosterPath { get; set; }
+
+        [JsonProperty("vote_average")]
+        public double VoteAverage { get; set; } // Adicione esta linha
     }
 
     public class MovieResponse

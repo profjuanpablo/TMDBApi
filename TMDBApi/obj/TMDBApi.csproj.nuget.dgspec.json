@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\profj\\source\\repos\\TMDBApi\\TMDBApi\\TMDBApi.csproj": {}
+    "C:\\Users\\profj\\source\\repos\\TMDBAPI\\TMDBApi\\TMDBApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\profj\\source\\repos\\TMDBApi\\TMDBApi\\TMDBApi.csproj": {
+    "C:\\Users\\profj\\source\\repos\\TMDBAPI\\TMDBApi\\TMDBApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\profj\\source\\repos\\TMDBApi\\TMDBApi\\TMDBApi.csproj",
+        "projectUniqueName": "C:\\Users\\profj\\source\\repos\\TMDBAPI\\TMDBApi\\TMDBApi.csproj",
         "projectName": "TMDBApi",
-        "projectPath": "C:\\Users\\profj\\source\\repos\\TMDBApi\\TMDBApi\\TMDBApi.csproj",
+        "projectPath": "C:\\Users\\profj\\source\\repos\\TMDBAPI\\TMDBApi\\TMDBApi.csproj",
         "packagesPath": "C:\\Users\\profj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\profj\\source\\repos\\TMDBApi\\TMDBApi\\obj\\",
+        "outputPath": "C:\\Users\\profj\\source\\repos\\TMDBAPI\\TMDBApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\profj\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TMDBApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab9e268411422679d1c86675d542c191397572fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TMDBApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TMDBApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

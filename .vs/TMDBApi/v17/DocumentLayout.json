@@ -58,8 +58,7 @@
               "RelativeToolTip": "TMDBApi\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAACkAAAAAAAAAAAAUwDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T16:29:43.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:29:43.02Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "TMDBApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-29T16:24:00.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:24:00.207Z"
             },
             {
               "$type": "Document",
@@ -82,7 +80,7 @@
               "RelativeDocumentMoniker": "TMDBApi\\Views\\Movies\\Search.cshtml",
               "ToolTip": "C:\\Users\\profj\\source\\repos\\TMDBApi\\TMDBApi\\Views\\Movies\\Search.cshtml",
               "RelativeToolTip": "TMDBApi\\Views\\Movies\\Search.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAUwCQAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwB4AAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-29T16:14:33.505Z",
               "EditorCaption": ""
@@ -97,8 +95,7 @@
               "RelativeToolTip": "TMDBApi\\Views\\Movies\\Index.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAADwvxkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T16:14:11.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:14:11.923Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "TMDBApi\\Controllers\\MoviesController.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAuwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:13:45.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:13:45.81Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "TMDBApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:13:00.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:13:00.715Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "TMDBApi\\Services\\TmdbService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAkwAsAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:12:43.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:12:43.963Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "TMDBApi\\Models\\Genre.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:12:12.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:12:12.683Z"
             },
             {
               "$type": "Document",
@@ -160,7 +153,7 @@
               "RelativeDocumentMoniker": "TMDBApi\\Models\\Movie.cs",
               "ToolTip": "C:\\Users\\profj\\source\\repos\\TMDBApi\\TMDBApi\\Models\\Movie.cs",
               "RelativeToolTip": "TMDBApi\\Models\\Movie.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAswB0AAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBcAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T16:11:07.597Z",
               "EditorCaption": ""

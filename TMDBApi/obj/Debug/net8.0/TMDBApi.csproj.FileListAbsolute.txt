@@ -33,3 +33,4 @@ C:\Users\profj\source\repos\TMDBApi\TMDBApi\obj\Debug\net8.0\refint\TMDBApi.dll
 C:\Users\profj\source\repos\TMDBApi\TMDBApi\obj\Debug\net8.0\TMDBApi.pdb
 C:\Users\profj\source\repos\TMDBApi\TMDBApi\obj\Debug\net8.0\TMDBApi.genruntimeconfig.cache
 C:\Users\profj\source\repos\TMDBApi\TMDBApi\obj\Debug\net8.0\ref\TMDBApi.dll
+C:\Users\profj\source\repos\TMDBAPI\TMDBApi\obj\Debug\net8.0\TMDBApi.sourcelink.json
