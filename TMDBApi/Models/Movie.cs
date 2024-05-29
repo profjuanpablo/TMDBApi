@@ -5,6 +5,7 @@ namespace TMDBApi.Models
 {
     public class Movie
     {
+        public int Id { get; set; }
         [JsonProperty("title")]
         public string Title { get; set; }
 
